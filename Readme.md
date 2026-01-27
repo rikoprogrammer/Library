@@ -1,0 +1,1 @@
+This repository contains a collection of my favorite books in Statistics, Programming, and Data Science. It also contains valuable articles.
