@@ -2,6 +2,8 @@ This repository contains a collection of my favorite books in **Statistics**, **
 
 The growth of your skills and knowledge is majorly a function of the books you read and the articles you interact with in the course of your career.
 
-*When action grows unprofitable, gather information; when information grows unprofitable, sleep.*
+**When action grows unprofitable, gather information; when information grows unprofitable, sleep.**
+
+On 15th Mar 2026, I decided to include a category on personal development, this category contains non-scientific books, these books are mainly concerned with personal growth in terms of moulding ones belief towards a fulfilling life.
 
 ![Library-image](/images/library-image.jpg)
